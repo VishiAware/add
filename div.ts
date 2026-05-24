@@ -1,1 +1,1 @@
-console.log("Division of two numbers:- " +(10%2))
+console.log("Division of two numbers:- " +(11%2))
